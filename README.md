@@ -1,2 +1,2 @@
-# interactive-scrum
+# interactive-nexus
 # Developer: Shaun Dashjian
